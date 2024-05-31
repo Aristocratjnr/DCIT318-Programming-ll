@@ -29,3 +29,12 @@ A program that calculates the price of a movie ticket based on the user's age. R
 2. Run the application using the command:
 dotnet run
 Enter your age when prompted.
+
+### 3. Triangle Type Identifier
+A program that determines the type of a triangle based on the lengths of its sides entered by the user. The possible types are Equilateral, Isosceles, and Scalene.
+
+### Usage
+Navigate to the `TriangleTypeIdentifier` directory.
+Run the application using the command:
+dotnet run
+Enter the lengths of the three sides when prompted.
