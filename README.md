@@ -25,7 +25,7 @@ A simple program that prompts the user to enter a numerical grade between 0 and 
 A program that calculates the price of a movie ticket based on the user's age. Regular ticket price is GHC10, but senior citizens (age 65 and above) and children (age 12 and below) receive a discounted price of GHC7.
 
 ### Usage
-Navigate to the TicketPriceCalculator directory.
-Run the application using the command:
+1. Navigate to the `TicketPriceCalculator` directory.
+2. Run the application using the command:
 dotnet run
 Enter your age when prompted.
