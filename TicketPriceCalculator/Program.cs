@@ -1,5 +1,6 @@
 ﻿using System;
 // this program takes the age of a person as input and determines the price of a ticket based on the age
+
 namespace TicketPriceCalculator
 {
     class Program
