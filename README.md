@@ -17,7 +17,7 @@ A simple program that prompts the user to enter a numerical grade between 0 and 
 #### Usage
 1. Navigate to the `GradeCalculator` directory.
 2. Run the application using the command: <br>
-   dotnet run <br>
+   <code>dotnet run </code><br>
  Same applies to TTicket Price Calculator, and Triangle Type Identifier.
    
 ### 2. Ticket Price Calculator
@@ -26,7 +26,7 @@ A program that calculates the price of a movie ticket based on the user's age. R
 ### Usage
 1. Navigate to the `TicketPriceCalculator` directory.
 2. Run the application using the command: <br>
-   dotnet run <br>
+   <code>dotnet run </code> <br>
 Enter your age when prompted.
 
 ### 3. Triangle Type Identifier
@@ -35,5 +35,5 @@ A program that determines the type of a triangle based on the lengths of its sid
 ### Usage
 1. Navigate to the `TriangleTypeIdentifier` directory.
 2. Run the application using the command: <br>
-   dotnet run <br>
+   <code>dotnet run</code> <br>
 Enter the lengths of the three sides when prompted.
