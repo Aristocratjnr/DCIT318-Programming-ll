@@ -1,4 +1,5 @@
 ﻿using System;
+// this program takes a numerical grade as input and determines the letter grade
 
 namespace GradeCalculator
 {
