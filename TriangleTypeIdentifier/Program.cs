@@ -1,4 +1,5 @@
 ﻿using System;
+// this program takes the lengths of the sides of a triangle as input and determines the type of the triangle
 
 namespace TriangleTypeIdentifier
 {
