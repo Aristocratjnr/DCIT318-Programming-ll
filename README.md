@@ -1,5 +1,5 @@
 # C# Console Applications
-<code> Student ID: <b>10945821</b>  Student Name: <b>OBUOBI AYIM DAVID</b> </code><br>
+<code> Student ID: <b>10945821</b>  Student Name: <b>OBUOBI AYIM DAVID</b> </code><p>
 This repository contains three C# console applications: Grade Calculator, Ticket Price Calculator, and Triangle Type Identifier. Each application is designed to perform a specific task based on user input.
 
 ## Applications
