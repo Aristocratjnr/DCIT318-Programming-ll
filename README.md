@@ -18,7 +18,7 @@ A simple program that prompts the user to enter a numerical grade between 0 and 
 1. Navigate to the `GradeCalculator` directory.
 2. Run the application using the command: <br>
    <code>dotnet run </code><br>
- Same applies to TTicket Price Calculator, and Triangle Type Identifier.
+ Same applies to TicTicket Price Calculator, and Triangle Type Identifier.
    
 ### 2. Ticket Price Calculator
 A program that calculates the price of a movie ticket based on the user's age. Regular ticket price is GHC10, but senior citizens (age 65 and above) and children (age 12 and below) receive a discounted price of GHC7.
